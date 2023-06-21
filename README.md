@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilip Lovevanshi</h1>
-<h3 align="center">An enthusiastic Front-End Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating useful and interactive web applications.</h3>
+<h3 align="center">An enthusiastic Front-End Web Developer with a strong set of technical as well as non-technical skills and a dedication towards creating useful and interactive web applications. Strong knowledge of HTML, CSS, JavaScript and React.</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
